@@ -1,6 +1,6 @@
 {
   "name": "@relyz-pulse/reporter-payload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Relyz Pulse reporter for Payload projects",
   "license": "MIT",
   "repository": {
